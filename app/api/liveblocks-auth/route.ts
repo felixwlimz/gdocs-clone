@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { liveblocks } from "@/lib/liveblocks";
 import { getUserColor } from "@/lib/utils";
 import { currentUser } from "@clerk/nextjs/server";

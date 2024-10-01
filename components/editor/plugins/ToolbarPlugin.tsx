@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 /**
  * Copyright (c) Meta Platforms, Inc. and affiliates.
  *
